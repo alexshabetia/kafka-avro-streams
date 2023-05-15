@@ -1,1 +1,1 @@
-# java-samples
+# Samples with Avro, Consumer, Producer and Streams API
